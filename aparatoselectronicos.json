@@ -1,0 +1,116 @@
+{
+    "__class__": "Lista",
+    "Aparatos": [
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "Panasonic",
+                "modelo": "tel1",
+                "color": "Gris",
+                "pais": "China",
+                "precio": 50000.0,
+                "tipo": "VGA",
+                "pulgadas": 32.0,
+                "definicion": "HD",
+                "conexion": false
+            }
+        },
+        {
+            "__class__": "Lavaropa",
+            "__atributos__": {
+                "marca": "Liliana",
+                "modelo": "Modelo5",
+                "color": "Negro",
+                "pais": "Pakistan",
+                "precio": 48100,
+                "capacidad": 6,
+                "velocidad": "1000 rpm",
+                "cantidad": 3,
+                "tipocarga": "Superior"
+            }
+        },
+        {
+            "__class__": "Lavaropa",
+            "__atributos__": {
+                "marca": "Sony",
+                "modelo": "c10",
+                "color": "Negro",
+                "pais": "China",
+                "precio": 32000.0,
+                "capacidad": 7,
+                "velocidad": "500",
+                "cantidad": 3,
+                "tipocarga": "Frontal"
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "LG",
+                "modelo": "Modelo1",
+                "color": "Rojo",
+                "pais": "Argentina",
+                "precio": 25000,
+                "tipo": "VGA",
+                "pulgadas": 50,
+                "definicion": "HD",
+                "conexion": "True"
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "Modelo1",
+                "color": "Blanco",
+                "pais": "Argentina",
+                "precio": 20000,
+                "capacidad": 50,
+                "freezer": "True",
+                "ciclicla": "False"
+            }
+        },
+        {
+            "__class__": "Lavaropa",
+            "__atributos__": {
+                "marca": "Whirpool",
+                "modelo": "Modelo1",
+                "color": "Blanco",
+                "pais": "Argentina",
+                "precio": 30000,
+                "capacidad": 5,
+                "velocidad": "600rp",
+                "cantidad": 3,
+                "tipocarga": "Superior"
+            }
+        },
+        {
+            "__class__": "Lavaropa",
+            "__atributos__": {
+                "marca": "Philips",
+                "modelo": "Modelo2",
+                "color": "Blanco",
+                "pais": "Pakistan",
+                "precio": 48100,
+                "capacidad": 6,
+                "velocidad": "100 rpm",
+                "cantidad": 3,
+                "tipocarga": "Superior"
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "TCL",
+                "modelo": "Modelo4",
+                "color": "Negro",
+                "pais": "Mexico",
+                "precio": 86000,
+                "tipo": "VGA",
+                "pulgadas": 55,
+                "definicion": "FULL HD",
+                "conexion": true
+            }
+        }
+    ]
+}
